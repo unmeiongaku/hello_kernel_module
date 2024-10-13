@@ -1,0 +1,1 @@
+cmd_/home/desmtiny/desmtiny/beagle_bone_black/helloworld/kernel_module/hello_module.mod := { echo  /home/desmtiny/desmtiny/beagle_bone_black/helloworld/kernel_module/hello_module.o;  echo; } > /home/desmtiny/desmtiny/beagle_bone_black/helloworld/kernel_module/hello_module.mod
